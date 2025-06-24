@@ -12,7 +12,7 @@ public class SaludoController {
 	@GetMapping
 	public String saludar() {
 		
-		return "Bienvenido al curso de cloud computing en la UA!";
+		return "Bienvenido al curso de cloud computing en la UA!, PONGANSE A ESTUDIAR PES";
 		
 	}
 	
